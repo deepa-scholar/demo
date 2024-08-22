@@ -1,1 +1,1 @@
-This is my first repository o the Githu account
+This is my first repository o the Github account
